@@ -1,4 +1,5 @@
-#📊 SQL Data Analytics Project
+# 📊 SQL Data Analytics Project
+
 
 📌 Overview
 This repository contains a collection of SQL scripts for data exploration, analytics, and reporting.
