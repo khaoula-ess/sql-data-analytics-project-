@@ -1,7 +1,7 @@
 # 📊 SQL Data Analytics Project
 
 
-📌 Overview
+## 📌 Overview
 This repository contains a collection of SQL scripts for data exploration, analytics, and reporting.
 The scripts focus on:
 
@@ -15,7 +15,7 @@ The scripts focus on:
 
 📑 Reporting – Combine queries into clear, reusable reports
 
-🗂️ Features
+## 🗂️ Features
 Organized SQL scripts by topic
 
 Practical examples for data analysis
