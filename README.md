@@ -1,2 +1,13 @@
 # sql-data-analytics-project-
-A collection of SQL scripts for data exploration, analytics, and reporting. Includes queries for trends, metrics, segmentation, and more built to help analysts and BI teams efficiently analyze and interpret relational database data.
+This repository contains a curated collection of SQL scripts designed for data exploration, analytics, and reporting. The scripts cover a variety of analytical techniques, from basic database exploration to advanced performance analysis, segmentation, and trend reporting.
+
+Features
+Database Exploration – Identify tables, fields, and relationships within the database.
+
+Metric & KPI Calculations – Aggregate totals, averages, recency, and other performance indicators.
+
+Time-Based Analysis – Trends, changes over time, and cumulative growth tracking.
+
+Segmentation – Categorize customers, products, or transactions for targeted insights.
+
+Reporting – Consolidated reports for customers, products, and overall business metrics.
