@@ -1,9 +1,9 @@
 
-# SQL Data Analytics Project
+# 📊 SQL Data Analytics Project
 ![License](https://img.shields.io/badge/License-MIT-blue)
 ![SQL](https://img.shields.io/badge/SQL-Scripts-green)
 
-## Overview
+## 📌 Overview
 This repository contains a collection of SQL scripts for data exploration, analytics, and reporting. The scripts are designed to help analyze datasets, extract meaningful insights, and generate actionable reports. Key focus areas include:
 
 - 🔍 **Database Exploration** – Inspect tables, fields, and relationships.
